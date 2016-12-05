@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">e-recharge</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_recharge_menu">Menu</string>
+    <string name="title_activity_b_kash">bKash</string>
+    <string name="title_activity_flexiload">Flexiload</string>
+    <string name="title_activity_epin_voucher">ePin Voucher</string>
+    <string name="title_activity_report">Report</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_support">Support</string>
+    <string name="operator_list_prompt">Select Operator</string>
+    <string name="title_activity_initial">Initial</string>
+    <string-array name="operator_list">
+        <item>Airtel</item>
+        <item>Banglalink</item>
+        <item>Grameen Phone</item>
+        <item>Robi</item>
+        <item>Teletalk</item>
+    </string-array>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_b_kash_history">bKashHistory</string>
+    <string name="title_activity_top_up_history">TopUpHistory</string>
+    <string name="title_activity_top_up">TopUp</string>
+    <string name="title_activity_dbbl">DBBL</string>
+    <string name="title_activity_m_cash">mCash</string>
+    <string name="title_activity_u_cash">uCash</string>
+    <string name="title_activity_ucash">UCash</string>
+    <string name="title_activity_dbblhistory">DBBLHistory</string>
+    <string name="title_activity_m_cash_history">mCashHistory</string>
+    <string name="title_activity_ucash_history">UCashHistory</string>
+    <string name="title_activity_reseller">Reseller</string>
+    <string name="title_activity_create__reseller">Create_Reseller</string>
+    <string name="title_activity_create_reseller">CreateReseller</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="title_activity_change_password">ChangePassword</string>
+    <string name="title_activity_account">Account</string>
+    <string name="title_activity_pin_code">PinCode</string>
+
+</resources>
